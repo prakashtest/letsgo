@@ -1,2 +1,0 @@
-# letsgo
-For Go stuff
